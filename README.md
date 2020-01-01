@@ -1,0 +1,1 @@
+# program_rulare_automata_kadim
